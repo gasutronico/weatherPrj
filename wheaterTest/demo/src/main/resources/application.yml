@@ -1,0 +1,17 @@
+general:
+  path:
+    http://api.openweathermap.org/data/2.5/weather?id=
+  appid:
+    ea8ec796bb2d2c59825ae8e4f3cf5331
+  standardFormatDate:
+    dd/MM/yyyy HH:mm:ss
+  ampmFormatDate:
+    hh:mm a
+  twoDecimalFormat:
+    "%.2f"
+  error404:
+    Error 404
+  error500:
+    Error 500
+  
+   
